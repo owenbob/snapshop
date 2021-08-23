@@ -6,3 +6,4 @@ A User will create an account and add their payment details and their watermark 
 A buyer logs on with their wallet integrated and initiates a purchase from which funds will be transferred to the owner and image unwatermarked and sent to the buyer with transaction details.
 
 
+![Picture](https://user-images.githubusercontent.com/30471763/130460901-06a5a85d-08c9-4d7a-b8d5-f52498ac568b.png)
